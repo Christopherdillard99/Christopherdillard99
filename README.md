@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Chris.
 
-### - 🔭 I’m currently working on a certificate in Python and beefing of my Power BI skills.
+### - 🔭 I’m currently working on a certificate in Python and beefing up my Power BI skills.
 
 ### - 🌱 I’m currently learning Web Development and Design principles, along with some German on the side.
 

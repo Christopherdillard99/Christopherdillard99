@@ -8,7 +8,7 @@
 
 ### - 📫 How to reach me: let's connect at www.linkedin.com/in/dillardchristopher 
 
-### - ⚡ Fun facts: I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as the food and can play the Piano, Saxophone (thanks to marching band), and almost the Violin.
+### - ⚡ Fun facts: I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as the food and can play the Piano, Saxophone (thanks to marching band), and some Violin.
 
 
 

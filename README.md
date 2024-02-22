@@ -1,6 +1,6 @@
 <h3 align="center">A passionate business analyst from North Carolina</h3>
 
-- 🌱 I’m currently learning **Python for data visualization and modeling, along with some German on the side.**
+- 🌱 I’m currently learning **Python for data visualization and modeling and simulation, along with some German on the side.**
 
 - 💬 Ask me about **my past travels and future plans. I recently came back from two weeks in Chile.**
 

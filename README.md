@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 I'm Chris.
 
 ### - 🔭 I’m currently working on a certificate in Python and beefing of my Power BI skills.
 

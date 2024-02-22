@@ -18,7 +18,8 @@
 <p align="left"> 
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" /></a>
 <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> <img src="https://surveymonkey-assets.s3.amazonaws.com/papiasset/apps/logos/2e989404-aed0-41ea-9198-ddc1c76d7a4a" alt="tableau" width="40" height="40" /></a>
-<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Programming Language" width="40" height="40"
+<a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Programming Language" width="40" height="40" /></a> 
+<a href="https://www.jmp.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:JMP_Logo.png#/media/File:JMP_Logo.png" alt="JMP Statistical Software" width="40" height="40"
 </a> </p>
 
 

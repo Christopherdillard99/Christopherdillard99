@@ -1,4 +1,4 @@
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate business analyst from North Carolina</h3>
 
 - 🔭 I’m currently working on **a certificate in Python and beefing up my Power BI skills.**
 

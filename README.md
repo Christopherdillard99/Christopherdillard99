@@ -1,14 +1,23 @@
-### Hi there 👋 I'm Chris.
+<h3 align="center">A passionate frontend developer from India</h3>
 
-### - 🔭 I’m currently working on a certificate in Python and beefing up my Power BI skills.
+- 🔭 I’m currently working on **a certificate in Python and beefing up my Power BI skills.**
 
-### - 🌱 I’m currently learning Web Development and Design principles, along with some German on the side.
+- 🌱 I’m currently learning **Web Development and Design principles, along with some German on the side.**
 
-### - 💬 Ask me about my past travels and future plans. I recently came back from two weeks in Chile.
+- 💬 Ask me about **my past travels and future plans. I recently came back from two weeks in Chile.**
 
-### - 📫 How to reach me: let's connect at www.linkedin.com/in/dillardchristopher 
+- 📫 How to reach me **let's connect at www.linkedin.com/in/dillardchristopher**
 
-### - ⚡ Fun facts: I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the Piano and the Saxophone thanks to my past in Marching Band. I'm also an Eagle Scout and once ran the Marine Corps Marathon in Washington, DC.
+- ⚡ Fun fact **I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the Piano and the Saxophone thanks to my past in Marching Band. I'm also an Eagle Scout and once ran the Marine Corps Marathon in Washington, DC.**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/dillardchristopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dillardchristopher" height="30" width="40" /></a>
+<a href="https://instagram.com/christopherdillard" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="christopherdillard" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> </p>
 
 
 

@@ -8,7 +8,7 @@
 
 ### - 📫 How to reach me: let's connect at www.linkedin.com/in/dillardchristopher 
 
-### - ⚡ Fun facts: I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as the food and can play the Piano and the Saxophone thanks to my past in Marching Band. I'm also an Eagle Scout and once ran the Marine Corps Marathon in Washington, DC.
+### - ⚡ Fun facts: I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the Piano and the Saxophone thanks to my past in Marching Band. I'm also an Eagle Scout and once ran the Marine Corps Marathon in Washington, DC.
 
 
 

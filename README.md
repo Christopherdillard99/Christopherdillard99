@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently taking the 100 Days of Coding challenge for Python with Angela Yu, as well as learning some German on the side.**
 
-- 💬 Ask me about **my past travels and future plans. I recently came back from two weeks in Chile and have been to 13 others... so far :D**
+- 💬 Ask me about **my past travels and future plans. I recently came back from two weeks in Chile and have been to 13 other countries... so far :D**
 
 - 📫 How to reach me: **let's connect at www.linkedin.com/in/dillardchristopher**
 

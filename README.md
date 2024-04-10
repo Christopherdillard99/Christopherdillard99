@@ -22,7 +22,7 @@
 /></a>
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Programming Language" width="40" height="40" 
 /></a> 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python Programming Language" width="40" height="40" 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://www.python.org/static/img/python-logo.png" alt="Python Programming Language" width="60" height="40" 
 /></a> 
 <a href="https://www.jmp.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/JMP_Logo.png?20220404222631" alt="JMP Statistical Software" width="100" height="40"
 /></a> </p>

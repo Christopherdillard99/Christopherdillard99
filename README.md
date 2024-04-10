@@ -22,6 +22,8 @@
 /></a>
 <a href="https://www.r-project.org/about.html" target="_blank" rel="noreferrer"> <img src="https://www.r-project.org/logo/Rlogo.png" alt="R Programming Language" width="40" height="40" 
 /></a> 
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"> <img src="https://banner2.cleanpng.com/20180806/fv/kisspng-python-scalable-vector-graphics-logo-javascript-cl-coderpete-game-development-5b6819307ca155.2506144815335488485105.jpg" alt="Python Programming Language" width="40" height="40" 
+/></a> 
 <a href="https://www.jmp.com/en_us/home.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/JMP_Logo.png?20220404222631" alt="JMP Statistical Software" width="100" height="40"
 /></a> </p>
 

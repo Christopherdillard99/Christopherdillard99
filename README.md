@@ -1,4 +1,4 @@
-<h3 align="center">A passionate business analyst from North Carolina</h3>
+<h3 align="center">Just an analytical person with an affinity for creativity</h3>
 
 - 🌱 I’m currently taking the 100 Days of Coding challenge for Python with Angela Yu, as well as learning some German on the side.
 
@@ -6,7 +6,7 @@
 
 - 📫 How to reach me: **let's connect at www.linkedin.com/in/dillardchristopher**
 
-- ⚡ Fun facts: **I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the piano and saxophone thanks to my past in Marching Band. Just an analytical person with an affinity for all things creative.**
+- ⚡ Fun facts: **I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the piano and saxophone thanks to my past in Marching Band. Just an analytical person with an affinity for creativity.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

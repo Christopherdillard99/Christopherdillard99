@@ -2,12 +2,12 @@
 
 - 🌱 I’m currently taking the 100 Days of Coding challenge for Python with Angela Yu, as well as learning some German on the side.
 
+- ⚡ Fun facts: **I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the piano and saxophone thanks to my past in Marching Band. Just an analytical person with an affinity for creativity.**
+
 - 💬 Ask me about **my past travels and future plans. I recently took the California Zephyr 🚂💨 from Chicago to San Francisco and spent two weeks in Chile earlier this year.**
 
 - 📫 How to reach me: **let's connect at www.linkedin.com/in/dillardchristopher**
-
-- ⚡ Fun facts: **I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the piano and saxophone thanks to my past in Marching Band. Just an analytical person with an affinity for creativity.**
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dillardchristopher" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dillardchristopher" height="30" width="40" /></a>

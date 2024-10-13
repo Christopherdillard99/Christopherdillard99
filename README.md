@@ -1,10 +1,10 @@
-<h3 align="center">Just an analytical person with an affinity for creativity</h3>
+<h3 align="center">Just an analytical guy with an affinity for creativity</h3>
 
-- 🌱 I’m currently taking the 100 Days of Coding challenge for Python with Angela Yu, as well as learning some German on the side.
+- 🌱 I’m currently taking the 100 Days of Coding challenge for Python with Angela Yu.
 
 - ⚡ Fun facts: **I am a triple citizen of the US, UK, and Germany and have previously lived in Spain, por lo que también hablo español :) I love learning new recipes almost as much as trying the food and can play the piano and saxophone thanks to my past in Marching Band. Just an analytical person with an affinity for creativity.**
 
-- 💬 Ask me about **my past travels and future plans. I recently took the California Zephyr 🚂💨 from Chicago to San Francisco and spent two weeks in Chile earlier this year.**
+- 💬 Ask me about **my past travels and future plans. Earlier this year, I took the California Zephyr 🚂💨 from Chicago to San Francisco, had a two-week getaway to Chile, and more recently returned from a trip to England (I'm a HUGE history buff, so I enjoyed exploring the Roman ruins in Bath).**
 
 - 📫 How to reach me: **let's connect at www.linkedin.com/in/dillardchristopher**
   
